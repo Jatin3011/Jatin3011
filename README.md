@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jatinjot Singh</h1>
 <h3 align="center">Aspiring Data Analyst | Computer Engineering Student at Thapar University</h3>
 
+
+
 - 🌱 I’m currently learning **Python , SQL , MS Excel**
 
 - 💬 Ask me about **Data Analytics , Python**
